@@ -8,10 +8,10 @@
     }
     
     abstract class ServiceURL {
-        const PROD_CO = 'https://payment.allpay.com.tw/Cashier/AioCheckOut/V2';
-        const STAGE_CO = 'https://payment-stage.allpay.com.tw/Cashier/AioCheckOut/V2';
-        const PROD_QO = 'https://payment.allpay.com.tw/Cashier/QueryTradeInfo/V2';
-        const STAGE_QO = 'https://payment-stage.allpay.com.tw/Cashier/QueryTradeInfo/V2';
+        const PROD_CO = 'https://payment.opay.tw/Cashier/AioCheckOut/V2';
+        const STAGE_CO = 'https://payment-stage.opay.tw/Cashier/AioCheckOut/V2';
+        const PROD_QO = 'https://payment.opay.tw/Cashier/QueryTradeInfo/V2';
+        const STAGE_QO = 'https://payment-stage.opay.tw/Cashier/QueryTradeInfo/V2';
     }
     
     abstract class RoundMethod {

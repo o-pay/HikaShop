@@ -4,8 +4,8 @@
 	<creationDate>15 Fabruary 2016</creationDate>
 	<version>1.0.1</version>
 	<author>allPay</author>
-	<authorEmail>services@allpay.com.tw</authorEmail>
-	<authorUrl>https://www.allpay.com.tw/</authorUrl>
+	<authorEmail>services@opay.tw</authorEmail>
+	<authorUrl>https://www.opay.tw/</authorUrl>
 	<copyright>Copyright © 2015 allPay Electronic Payment Co., Ltd. All rights reserved.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<description>This plugin enables you to setup your Hikashop for Joomla allPay payment system</description>
